@@ -16,7 +16,7 @@ To get a local copy up and running:
 4. Follow the prompts.
 
 ## Output example
-![Image Example](https://i.gyazo.com/4936b181f3d77b3e90300f1417830cc2.png)
+![Image Example](https://i.gyazo.com/aa81ff8fe0813f36cee67dbfe05482f6.png)
 
 ![Image Example2](https://i.gyazo.com/768f40ace84a43e9c779b8fff8f41997.png)
 
