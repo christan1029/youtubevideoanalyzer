@@ -1,7 +1,8 @@
 # youtubevideoanalyzer
-Youtube search data processing using the YouTube API, written in Python.
+Retrieves and processes data from youtube videos relating to a user-entered search term by using the YouTube API.
 
-youtube_video_analyzer.py prompts user for a search term and a maximum number of videos to search for. 
+## About the program
+youtube_video_analyzer.py prompts the user for a search term and a maximum number of videos to search for. 
 It then prints several user-friendly data reports about the videos it searched for.
 In addition, it creates a csv file containing the raw data of the videos that were retrieved with the following data fields for each video: id, publish date, video title, video duration, view count, like count.
 
