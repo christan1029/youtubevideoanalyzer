@@ -6,7 +6,7 @@ youtube_video_analyzer.py prompts the user for a search term and a maximum numbe
 It then prints several user-friendly data reports about the videos it searched for.
 In addition, it creates a csv file containing the raw data of the videos that were retrieved with the following data fields for each video: id, publish date, video title, video duration, view count, like count.
 
-Program written in Python.
+Program written in [Python](https://www.python.org/).
 
 ## Getting Started
 
