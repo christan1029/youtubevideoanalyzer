@@ -10,10 +10,11 @@ In addition, it creates a csv file containing the raw data of the videos that we
 
 To get a local copy up and running:
 
-1. Download the file youtube_video_analyzer.py.
-2. If you would like to use your own API key, sign up [here](https://developers.google.com), enable Youtube Data API v3 and replace the API key used in line 11 with your own.
-3. Run the file in your terminal with the command: python3 youtube_video_analyzer.py
-4. Follow the prompts.
+1. Make sure you have the latest version of Python downloaded. For instructions, click [here](https://realpython.com/installing-python/).
+2. Download the file youtube_video_analyzer.py.
+3. (OPTIONAL) If you would like to use your own API key, sign up [here](https://developers.google.com), enable Youtube Data API v3 and replace the API key used in line 11 with your own.
+4. Run the file in your terminal with the command: python3 youtube_video_analyzer.py
+5. Follow the prompts.
 
 ## Output example
 ![Image Example](https://i.gyazo.com/aa81ff8fe0813f36cee67dbfe05482f6.png)
